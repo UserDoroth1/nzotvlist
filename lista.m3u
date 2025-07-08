@@ -483,6 +483,8 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -691,8 +693,6 @@ https://thedaddy.click/stream/stream-868.php
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
-https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
@@ -930,7 +930,7 @@ https://thedaddy.click/stream/stream-15.php
 #EXTINF:-1 tvg-id="fifaclubworldcupfluminensevschelsea" tvg-name="Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth1/nzotvlist/main/logos/Fluminense_vs_Chelsea.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)
 https://thedaddy.click/stream/stream-16.php
 
-#EXTINF:-1 tvg-id="worldcup2025lonatodelgardawomensskeet" tvg-name="Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/09/FIFA-Club-World-Cup-2025-Logo.png" group-title="Eventi Live",Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)
+#EXTINF:-1 tvg-id="worldcup2025lonatodelgardawomensskeet" tvg-name="Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)" tvg-logo="https://images.seeklogo.com/logo-png/57/2/club-world-cup-2025-logo-png_seeklogo-577684.png" group-title="Eventi Live",Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)
 https://thedaddy.click/stream/stream-882.php
 
 
