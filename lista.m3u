@@ -51,8 +51,6 @@ https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH
-https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
@@ -934,16 +932,16 @@ https://thedaddy.click/stream/stream-1.php
 #EXTINF:-1 tvg-id="fifaclubworldcupsemifinal2psgvsrealmadrid" tvg-name="Soccer | FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid (21:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth1/nzotvlist/main/logos/PSG_vs_Real Madrid.png" group-title="Eventi Live",Soccer | FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid (21:00)
 https://thedaddy.click/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="uciworldtourstage3tourdefrance" tvg-name="Cycling | UCI World Tour Stage 3 - Tour de France (15:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png" group-title="Eventi Live",Cycling | UCI World Tour Stage 3 - Tour de France (15:00)
+#EXTINF:-1 tvg-id="uciworldtourstage3tourdefrance" tvg-name="Cycling | UCI World Tour Stage 3 - Tour de France (15:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png/medium" group-title="Eventi Live",Cycling | UCI World Tour Stage 3 - Tour de France (15:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="worldchampionshipu20southafricau20vsscotlandu20" tvg-name="Rugby Union | World Championship U20 : South Africa U20 vs Scotland U20 (15:30)" tvg-logo="https://raw.githubusercontent.com/UserDoroth1/nzotvlist/main/logos/South Africa U20_vs_Scotland U20.png" group-title="Eventi Live",Rugby Union | World Championship U20 : South Africa U20 vs Scotland U20 (15:30)
