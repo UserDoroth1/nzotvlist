@@ -411,8 +411,6 @@ https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
-https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
 https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
@@ -503,10 +501,6 @@ https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
-https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/san-marino-rtv-sport-20211731580347.logowik.com.webp" group-title="Sport",RTV SPORT
-https://vavoo.to/vavoo-iptv/play/134178901c516be5767e9
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -691,6 +685,8 @@ https://thedaddy.click/stream/stream-868.php
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
+https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
@@ -881,6 +877,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -922,19 +920,10 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="uefawomenseurofinlandvsswitzerland" tvg-name="Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/UserDoroth1/nzotvlist/main/logos/Finland_vs_Switzerland.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)
 https://thedaddy.click/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230823/original/pngtree-norway-flag-logo-illustration-vector-picture-image_8222527.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
+#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Badge_of_Norway_(Pantone).svg/220px-Badge_of_Norway_(Pantone).svg.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
-https://thedaddy.click/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/cbeb0639c45ecfe31fc6596260871774.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
-https://thedaddy.click/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.grandstandtickets.com/wp-content/uploads/2025/01/Wimbledon.svg.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
-https://thedaddy.click/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="tourdefrancestage6masculinehilly201km3550m" tvg-name="Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)
+#EXTINF:-1 tvg-id="tourdefrancestage6masculinehilly201km3550m" tvg-name="Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)" tvg-logo="https://cdn.cookielaw.org/logos/1cb7fe57-d2de-4bbe-be68-495598d39f44/e3e840cd-98d6-46ac-b5a0-a7072d19591d/bdd71500-e8b2-4d48-b3a5-a2f5537f3b42/TDF-Logo-Light_background-RGB.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)
 https://thedaddy.click/stream/stream-851.php
 
 
